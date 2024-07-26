@@ -1,3 +1,9 @@
+olm (3.2.16-3) unstable; urgency=medium
+
+  * bump version to 3.2.16-3
+
+ -- Sander <sander@sanderf.nl>  Fri, 26 Jul 2021 14:34:36 +0100
+
 olm (0.1) unstable; urgency=medium
 
   * Initial debian packaging
