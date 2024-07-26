@@ -1,0 +1,16 @@
+Source: olm
+Section: libs
+Priority: extra
+Maintainer: Sander <sander@sanderf.nl>
+Build-Depends: debhelper (>= 10),
+    cmake
+Homepage: https://github.com/maemo-leste-upstream-forks/olm
+XSBC-Bugtracker: https://github.com/maemo-leste-upstream-forks/olm/issues
+Vcs-Git: https://github.com/maemo-leste-upstream-forks/olm/
+Vcs-Browser: https://github.com/maemo-leste-upstream-forks/olm/
+
+
+Package: olm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Implementation of the olm and megolm cryptographic ratchets
