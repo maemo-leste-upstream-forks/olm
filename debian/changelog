@@ -1,10 +1,16 @@
-olm (3.2.16-3) unstable; urgency=medium
+libolm (3.2.16-4) unstable; urgency=medium
+
+  * bump version to 3.2.16-4
+
+ -- Sander <sander@sanderf.nl>  Tue, 31 Jul 2021 15:08:20 +0100
+
+libolm (3.2.16-3) unstable; urgency=medium
 
   * bump version to 3.2.16-3
 
  -- Sander <sander@sanderf.nl>  Fri, 26 Jul 2021 14:34:36 +0100
 
-olm (0.1) unstable; urgency=medium
+libolm (0.1) unstable; urgency=medium
 
   * Initial debian packaging
 

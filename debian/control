@@ -1,4 +1,4 @@
-Source: olm
+Source: libolm
 Section: libs
 Priority: extra
 Maintainer: Sander <sander@sanderf.nl>
@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/maemo-leste-upstream-forks/olm/
 Vcs-Browser: https://github.com/maemo-leste-upstream-forks/olm/
 
 
-Package: olm
+Package: libolm
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Implementation of the olm and megolm cryptographic ratchets
